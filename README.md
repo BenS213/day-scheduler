@@ -1,6 +1,8 @@
 # day-scheduler
 
 deployed site: 
+## about
+this simple scheduler utilizes third-party APIs to style the page and access the current time and date
 
 ## technologies used
 html, css, javascript, moment.js, font awesome, and bootstrap
